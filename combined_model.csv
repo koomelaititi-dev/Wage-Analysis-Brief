@@ -1,0 +1,29 @@
+block,variable,coefficient,robust_se,p_value,pct_change
+Demographic,Age (years),-0.0045126,0.0030892,0.144,-0.45
+Demographic,Race: Black (ref: White),-0.1388359,0.0221984,0,-12.96
+Demographic,Race: Other (ref: White),0.0272992,0.0908065,0.764,2.77
+Demographic,Married (1 = Yes),-0.0041217,0.0209523,0.844,-0.41
+Education,Education (years of schooling),0.0665462,0.0059602,0,6.88
+Education,College graduate (1 = Yes),0.0700188,0.0370624,0.059,7.25
+Location,Central city (1 = Yes),0.0652748,0.0216722,0.003,6.75
+Employment,Industry: Mining,0.3012071,0.237954,0.206,35.15
+Employment,Industry: Construction,0.3203088,0.1390707,0.021,37.76
+Employment,Industry: Manufacturing,0.1300786,0.107632,0.227,13.89
+Employment,Industry: Transport/Communications/Utilities,0.4307657,0.1153778,0,53.84
+Employment,Industry: Wholesale/Retail trade,-0.0272104,0.1076946,0.801,-2.68
+Employment,Industry: Finance/Insurance/Real estate,0.2433821,0.1109369,0.028,27.56
+Employment,Industry: Business/Repair services,0.1431818,0.1185811,0.227,15.39
+Employment,Industry: Personal services,-0.1138215,0.1167512,0.33,-10.76
+Employment,Industry: Entertainment/Recreation,0.1377215,0.1654073,0.405,14.77
+Employment,Industry: Professional services,0.0239817,0.1058508,0.821,2.43
+Employment,Industry: Public administration,0.2286314,0.1082334,0.035,25.69
+Employment,Union membership (1 = Yes),0.1191457,0.0214079,0,12.65
+Employment,Hours worked (per hour),0.001257,0.0012765,0.325,0.13
+Employment,Total experience (years),0.0286236,0.0027437,0,2.9
+Employment,Job tenure (years),0.0078351,0.0021466,0,0.79
+,Constant,0.6100876,0.1838361,0.001,
+Model statistics,observations,1852,,,
+Model statistics,r_squared,0.4227,,,
+Model statistics,f_statistic_22_1829,68.65,,,
+Model statistics,prob_f,0,,,
+Model statistics,root_mse,0.39336,,,
